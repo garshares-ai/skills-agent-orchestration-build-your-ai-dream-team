@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Onboarding",
+      "owner": "Mona Patel",
+      "status": "On track",
+      "recentActivity": "Published the refreshed setup guide and welcomed three new contributors.",
+      "priority": "Medium",
+      "summary": "Make it easier for new team members to find their first useful contribution."
+    },
+    {
+      "name": "Community Insights",
+      "owner": "Alex Chen",
+      "status": "In progress",
+      "recentActivity": "The first feedback themes are ready for review; dashboard sketches are in progress.",
+      "priority": "High",
+      "summary": "Turn community feedback into clear themes that help the team choose what to improve."
+    },
+    {
+      "name": "Release Readiness",
+      "owner": "Jordan Lee",
+      "status": "At risk",
+      "recentActivity": "A dependency update needs a compatibility check before the release checklist can close.",
+      "priority": "High",
+      "summary": "Coordinate the final quality checks and keep upcoming releases predictable."
+    },
+    {
+      "name": "Docs Refresh",
+      "owner": "Sam Rivera",
+      "status": "Planned",
+      "recentActivity": "Collected the pages most frequently visited by first-time users.",
+      "priority": "Low",
+      "summary": "Clarify the most-used documentation so people can solve common tasks with confidence."
+    },
+    {
+      "name": "Accessibility Pass",
+      "owner": "Taylor Brooks",
+      "status": "Active",
+      "recentActivity": "Keyboard navigation review is complete; contrast findings are being triaged.",
+      "priority": "Medium",
+      "summary": "Improve everyday flows for people using assistive technology and keyboard navigation."
+    }
+  ]
+}
